@@ -4,4 +4,7 @@
   (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/lfgab/Documents/GitHub/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name promicro)(type KiCad)(uri "C:/Program Files/KiCad/Libs/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
   (lib (name Logos)(type KiCad)(uri C:/Users/lfgab/Documents/Keyboards/Logos)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri C:/Users/lfgab/Documents/Keyboards/Footprints.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri C:/Users/lfgab/Documents/GitHub/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name Lily58_Pro-footprint)(type KiCad)(uri "C:/Program Files/KiCad/Libs/Lily58_Pro-footprint.pretty")(options "")(descr ""))
 )
